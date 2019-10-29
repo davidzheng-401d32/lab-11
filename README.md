@@ -6,8 +6,8 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/davidzheng-401d32/lab-11/pull/1)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
+* [travis](https://travis-ci.com/davidzheng-401d32/lab-11/builds/133948580)
+* [back-end](https://davidzheng-lab-11.herokuapp.com/) (when applicable)
 
 #### Documentation
 * [jsdoc](https://davidzheng-lab-11.herokuapp.com/docs) (link doesn't work)
