@@ -1,46 +1,30 @@
-# LAB - 
+# LAB - 11
 
-## Project Name
+## Authentication
 
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/davidzheng-401d32/lab-11/pull/1)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [jsdoc](https://davidzheng-lab-11.herokuapp.com/docs) (link doesn't work)
 
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - 3000
+* `MONGODB_URI` - mongodb://localhost:27017/db
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+the assignment is not yet finished 
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+unit test: `npm test`
+lint test: `npm run lint`
 
 #### UML
-Link to an image of the UML for your application and response to events
+![lab-11](lab-11.JPG)
